@@ -6,7 +6,8 @@ About Dataset:
 This dataset contains the 2022 and 2023 global mart sales dataset
 
 These are the questions:
---find the top 10 highest revenue generating products 
+
+--find the top 10 highest revenue-generating products 
 
 --find the top 5 highest-selling products in each region
 
